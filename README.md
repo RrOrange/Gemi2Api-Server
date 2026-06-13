@@ -78,7 +78,7 @@ PUBLIC_BASE_URL = "https://your-domain.com" # 外部URL，用于生成图片代�
    docker-compose up -d
    ```
 
-4. 服务将在 http://0.0.0.0:8000 上运行
+4. 服务将在 http://127.0.0.1:8000 上运行
 
 ### 其他 Docker 命令
 
